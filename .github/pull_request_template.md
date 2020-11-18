@@ -5,7 +5,7 @@
 
 - [ ] No new data will be collected as a result of this pull request
 
-*or* (remove section that's not applicable)
+*or* (remove above or below based on selection)
 
 - [ ] New data **WILL BE** collected as a result of this pull request.
 
