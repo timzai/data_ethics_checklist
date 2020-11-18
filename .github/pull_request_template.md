@@ -12,8 +12,8 @@ New data **WILL BE** collected as a result of this pull request.
 All sections in the following list *must* have at least 1 checkbox checked.
 
 - Section
-  - [] section item 1
-  - [] section item 2
+  - [ ] section item 1
+  - [ ] section item 2
 
 
 ***
